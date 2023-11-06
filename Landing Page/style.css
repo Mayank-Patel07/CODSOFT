@@ -81,7 +81,7 @@ ul li a:hover {
 #Main::before {
     content: "";
     position: absolute;
-    background: url("jeshoots-com-mSESwdMZr-A-unsplash.jpg")no-repeat center center/cover;
+    background: url("./Img/jeshoots-com-mSESwdMZr-A-unsplash.jpg")no-repeat center center/cover;
     height: 560px;
     top: 0px;
     left: 0px;
@@ -206,7 +206,7 @@ ul li a:hover {
 #client-section::before {
     content: "";
     position: absolute;
-    background: url("chris-liverani-9cd8qOgeNIY-unsplash.jpg")no-repeat center center/cover;
+    background: url("./Img/chris-liverani-9cd8qOgeNIY-unsplash.jpg")no-repeat center center/cover;
     height: 100%;
     left: 0px;
     width: 100%;
@@ -259,7 +259,7 @@ ul li a:hover {
 #Contact::before {
     content: "";
     position: absolute;
-    background: url("vecteezy_man-pointing-at-a-wooden-block-communication-concept-with_21698967_521.jpg")no-repeat center center/cover;
+    background: url("./Img/vecteezy_man-pointing-at-a-wooden-block-communication-concept-with_21698967_521.jpg")no-repeat center center/cover;
     height: 100%;
     left: 0px;
     width: 100%;
